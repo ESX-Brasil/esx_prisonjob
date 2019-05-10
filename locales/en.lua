@@ -5,11 +5,11 @@ Locales['en'] = {
     ['not_enough2']               = 'in your inventory!',
 
     -- Electrician job
-    ['lj_mapblip']                = 'broken generator',
-    ['lj_broken_parts']           = 'broken parts',
-    ['lj_pickup']                 = 'press ~INPUT_PICKUP~ to retrieve broken parts',
-    ['lj_delivery_point']         = 'broken delivery point',
-    ['lj_delivery']               = 'broken delivery',
-    ['lj_broken_scraps']          = 'broken scraps',
-    ['lj_deliver_button']         = 'press ~INPUT_PICKUP~ to deliver the broken parts to the guard.'
+    ['electricianjob_mapblip']                = 'broken generator',
+    ['electricianjob_broken_parts']           = 'broken parts',
+    ['electricianjob_pickup']                 = 'press ~INPUT_PICKUP~ to retrieve broken parts',
+    ['electricianjob_delivery_point']         = 'broken delivery point',
+    ['electricianjob_delivery']               = 'broken delivery',
+    ['electricianjob_broken_scraps']          = 'broken scraps',
+    ['electricianjob_deliver_button']         = 'press ~INPUT_PICKUP~ to deliver the broken parts to the guard.'
 }
